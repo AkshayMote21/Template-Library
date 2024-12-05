@@ -1,0 +1,16 @@
+.templatesHeading{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid;
+    width: 96%;
+    margin: auto;
+    margin-top: 10px;
+}
+#createButton{
+    width: 10%;
+    font-size: small;
+}
+#temp{
+    font-size: x-large;
+    font-weight: 600;
+}
